@@ -1,0 +1,21 @@
+h2,p{
+    text-align: center;
+}
+.recipies{
+    width: 100%;
+    height: 100%;
+    margin: 100px;
+    
+}
+.red{
+    color:red;
+}
+.blue{
+    color: blue;
+}
+.orange{
+    color: orange;
+}
+.hidden{
+    display: none;
+}
